@@ -1,0 +1,160 @@
+.main-heading1{
+    font-size: 150px;
+    background: linear-gradient(to right, #6721f3, 
+                    #08a9ff, #23cfa74f, #44eee3); 
+            -webkit-text-fill-color: transparent; 
+            -webkit-background-clip: text; 
+  }
+  .main-heading{
+    font-size: 150px;
+    color: white;
+    font-family: 'Montserrat';
+
+}
+
+  .playwrite-nz{
+    font-family: 'Montserrat';
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+  }
+  .main1{
+      background-image: url('b9e4448a95b0f8f97e96d51e9a796c50.gif'); 
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      height: 100vh;
+  }
+.main2{
+  background-image: url('stars-galaxy-3840x2160-10307.jpg'); 
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+}
+.main-heading3{
+  font-family: 'Montserrat';
+
+  font-size: 50px;
+  background: linear-gradient(to right, #6721f3, 
+                  #08a9ff, #23cfa74f, #44eee3); 
+          -webkit-text-fill-color: transparent; 
+          -webkit-background-clip: text; 
+
+  display: inline;
+}
+.main-heading2{
+  font-size: 50px;
+  color: white;
+  font-family: 'Montserrat';
+
+
+}
+.text-1{
+  font-size: 20px;
+color: azure;
+}
+.text-2{
+  font-size: 15px;
+  color: white;
+}
+
+.my-container .card {
+  width: 80%;
+  margin-left: 8%;
+  padding: 5%;
+  background-color: rgba(190, 189, 189, 0.144);
+  color: white;
+}
+
+.my-container{
+  padding: 5%;
+}
+
+.my-container .card img{
+  height: 270px !important;
+  width: auto;
+  
+}
+.zoom-effect:hover img {
+  transform: scale(1.2);
+}
+
+.zoom-effect-1:hover{
+  transform: scale(1.1);
+  transition: transform 0.3s ease;
+}
+
+body{
+  margin:0;
+  overflow-x:hidden;
+  }
+  
+  .footer{
+  background:#040429e1;
+  padding:30px 0px;
+  font-family: 'Play', sans-serif;
+  text-align:center;
+  }
+  
+  .footer .row{
+  width:100%;
+  margin:1% 0%;
+  padding:0.6% 0%;
+  color:gray;
+  font-size:0.8em;
+  }
+  
+  .footer .row a{
+  text-decoration:none;
+  color:gray;
+  transition:0.5s;
+  }
+  
+  .footer .row a:hover{
+  color:#fff;
+  }
+  
+  .footer .row ul{
+  width:100%;
+  }
+  
+  .footer .row ul li{
+  display:inline-block;
+  margin:0px 30px;
+  }
+  
+  .footer .row a i{
+  font-size:2em;
+  margin:0% 1%;
+  }
+  
+  @media (max-width:720px){
+  .footer{
+  text-align:left;
+  padding:5%;
+  }
+  .footer .row ul li{
+  display:block;
+  margin:10px 0px;
+  text-align:left;
+  }
+  .footer .row a i{
+  margin:0% 3%;
+  }
+  }
+  .main1 h5{
+    text-align: center;
+  }
+  .glow{
+    box-shadow: 
+    0 0 5px rgba(3, 8, 59, 0.192),
+    0 0 10px rgba(0, 255, 255, 0.4),
+    0 0 15px rgba(0, 255, 255, 0.5),
+    0 0 20px rgba(0, 255, 255, 0.6),
+    0 0 25px rgba(0, 255, 255, 0.7);
+
+    border-radius: 10px;
+    margin: 18px;
+  }
